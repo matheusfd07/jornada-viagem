@@ -1,5 +1,5 @@
 .main-header {
-  background-color: var(--bg-tertiary-color);
+  background-color: var(--background-tertiary-color);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -31,7 +31,7 @@ input[type="checkbox"]:checked ~ nav { /* Faz com que o menu de navegação seja
   top: 100%;
   left: 0;
   width: 100%;
-  background-color: var(--bg-tertiary-color);
+  background-color: var(--background-tertiary-color);
 }
 
 nav {
