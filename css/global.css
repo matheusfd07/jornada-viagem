@@ -5,7 +5,20 @@
   font-display: swap;
 }
 /* GLOBAL STYLES */
-/*:root { Alex*/
+:root {
+  --primary-color: #8f0101;
+  --secundary-color: #b81515;
+
+  --bg-primary-color: #fff;
+  --bg-secondary-color: #f5f5f5;
+  --bg-tertiary-color: #000;
+
+  --text-primary-color: #222;
+  --text-secondary-color: #fff;
+  --title-weight: 700;
+  --text-weight: 400;
+  --menu-text-weight: 500;  
+} 
 
 /* CSS RESET */
 body,
